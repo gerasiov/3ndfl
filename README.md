@@ -18,7 +18,8 @@ GPL версии 2 или более поздняя.
 
 * BTC: bc1qjxet0e0u5gzufz40dvcl7nxu3jx7p0du7a5pgd
 * ETH: 0xee37e2cb15af13e30409f33fd449138c9c649684
-* Cards: https://www.tinkoff.ru/cf/4PWqTbN1xiv
+* Russian Cards: https://www.tinkoff.ru/cf/4PWqTbN1xiv
+* Paypal: a@gerasiov.net
 
 
 ## Инструменты
