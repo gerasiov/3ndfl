@@ -17,7 +17,7 @@ GPL версии 2 или более поздняя.
 ## Donate here
 
 * BTC: bc1qjxet0e0u5gzufz40dvcl7nxu3jx7p0du7a5pgd
-* ETH: 0xee37e2cb15af13e30409f33fd449138c9c649684
+* ETH: 0x8769ec4b48b9bb0aafaa8e54f5139611f3cb0a89
 * Russian Cards: https://www.tinkoff.ru/cf/4PWqTbN1xiv
 * Paypal: a@gerasiov.net
 
